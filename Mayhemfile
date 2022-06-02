@@ -1,0 +1,7 @@
+project: bon
+target: bon
+testsuite:
+  - file://examples/hello.bon
+
+cmds:
+  - cmd: /bon_build/bon @@
