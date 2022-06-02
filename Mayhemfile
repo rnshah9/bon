@@ -1,4 +1,4 @@
-project: bon
+project: rnshah9/bon
 target: bon
 testsuite:
   - file://examples/hello.bon
